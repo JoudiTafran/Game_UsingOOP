@@ -39,7 +39,7 @@ Welcome to the **3-Level Adventure Game**! A thrilling game where speed, strateg
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/JoudiTafran/3-level-adventure-game.git
+   git clone https://github.com/JoudiTafran/Game_usingOOP.git
 2. Open the project in Visual Studio.
 3. Build and run the project to start playing!
 
